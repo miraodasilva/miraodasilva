@@ -2,7 +2,7 @@
 - 👀 I’m interested in deep learning applied to audiovisual domains, generative tasks and self-supervised learning.
 - 🌱 I’m currently learning how to be a better DL researcher.
 - 📫 How to reach me: rs2517(at)ic.ac.uk.
-- my personal page: https://miraodasilva.github.io/
+- Personal page: https://miraodasilva.github.io/
 - Google Scholar: https://scholar.google.com/citations?user=08YfKjcAAAAJ&hl=pt-PT
 - ResearchGate: https://www.researchgate.net/profile/Rodrigo_Mira3
 - Twitter: https://twitter.com/RodrigomiraA
