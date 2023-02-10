@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: rs2517(at)ic.ac.uk.
 - Personal page: https://miraodasilva.github.io/
-- Google Scholar: https://scholar.google.com/citations?user=08YfKjcAAAAJ&hl=pt-PT
+- Google Scholar: https://scholar.google.com/citations?user=08YfKjcAAAAJ&hl
 - ResearchGate: https://www.researchgate.net/profile/Rodrigo_Mira3
 - Twitter: https://twitter.com/RodrigomiraA
 - Reddit: https://www.reddit.com/user/MiraoDaSilva
