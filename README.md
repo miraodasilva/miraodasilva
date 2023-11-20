@@ -1,12 +1,12 @@
-👋 Hi, I’m a PhD student at Imperial College London in the Department of Computing, supervised by Maja Pantic and Björn Schuller in IBUG (Intelligent Behaviour Understanding Group). I will be submitting my thesis and finishing my PhD in January 2023.
+👋 Hi, my name is Rodrigo and I'm a researcher at Meta AI. Currently, I work in the Behavioural Computing team, led by Maja Pantic, to develop new approaches for generative modelling and self-supervised learning on audio-visual speech. 
 
-🖥️ I spent a substantial portion of my PhD interning and working at Meta AI, where I collaborated with multiple teams and developed my PhD research. 
+📚 I completed my BSc in Information Systems and Computer Engineering at Instituto Superior Técnico, as well as my MSc and PhD in Computing at Imperial College London.
 
-📚 I completed my BSc in Information Systems and Computer Engineering at Instituto Superior Técnico and my MSc in Advanced Computing at Imperial College London.
+🖥️ I spent a substantial portion of my PhD interning and working at Meta AI, where I collaborated with multiple teams and developed my PhD research. I also joined Sony R&D in Tokyo briefly after completing my PhD, as a research intern, where I worked on video-to-audio generation.
 
-🔬🤖 My research is focused on deep learning applied to audio-visual speech (i.e., faces, lip movements and speech). In particular, I am interested in applying self-supervised learning to learn from unlabelled audio-visual speech. I am also interested and have experience in generative modelling, particularly in generating speech using Generative Adversarial Networks (GANs).
+🔬🤖 My research is focused on deep learning applied to audio-visual speech (i.e., faces, lip movements, and speech). In particular, I am interested in applying self-supervised learning to learn from unlabelled audio-visual speech. I am also interested and have experience in generative modeling, particularly in generating speech using generative adversarial networks (GANs) and diffusion models.
 
-🗣️ I have given live talks about my research in multiple conferences including CVPR, Interspeech and ICASSP. I also engage with the machine learning online community directly through platforms such as Twitter and Reddit.
+🗣️ I have given live talks about my research in multiple conferences including CVPR, Interspeech, and ICASSP. I also engage with the machine learning online community directly through platforms such as Twitter and Reddit.
 
 🎸🎾 During my free time, I enjoy playing the guitar and bass (usually with a band). I also play squash with my colleagues from Imperial College London on a weekly basis.
 
