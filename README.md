@@ -1,4 +1,4 @@
-👋 Hi, my name is Rodrigo and I'm a researcher at Meta AI. Currently, I work in the Behavioural Computing team, led by Maja Pantic, to develop new approaches for generative modelling and self-supervised learning on audio-visual speech. 
+👋 Hi, my name is Rodrigo and I’m a Research Scientist at Google DeepMind in New York City. Before that, I was as a Postdoctoral Researcher at Meta working on new approaches for generative modeling and self-supervised learning on audio-visual speech. At Meta, my main project was Automated Dubbing for Instagrams Reels, where I worked on speech-driven facial animation/lip synchronization.
 
 📚 I completed my BSc in Information Systems and Computer Engineering at Instituto Superior Técnico, as well as my MSc and PhD in Computing at Imperial College London.
 
@@ -6,11 +6,7 @@
 
 🔬🤖 My research is focused on deep learning applied to audio-visual speech (i.e., faces, lip movements, and speech). In particular, I am interested in applying self-supervised learning to learn from unlabelled audio-visual speech. I am also interested and have experience in generative modeling, particularly in generating speech using generative adversarial networks (GANs) and diffusion models.
 
-🗣️ I have given live talks about my research in multiple conferences including CVPR, Interspeech, and ICASSP. I also engage with the machine learning online community directly through platforms such as Twitter and Reddit.
-
-🎸🎾 During my free time, I enjoy playing the guitar and bass (usually with a band). I also play squash with my colleagues from Imperial College London on a weekly basis.
-
-- 📫 How to reach me: rs2517(at)ic.ac.uk.
+- 📫 How to reach me: mirarodrigo607(at)ic.ac.uk.
 - Personal page: https://miraodasilva.github.io/
 - Google Scholar: https://scholar.google.com/citations?user=08YfKjcAAAAJ&hl
 - ResearchGate: https://www.researchgate.net/profile/Rodrigo_Mira3
